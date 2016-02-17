@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+     "intent": "TellMeADadJokeIntent"
+    },
+    {
+     "intent": "TellMeWhoCreatedThisIntent"
+    },
+    {
+     "intent": "YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

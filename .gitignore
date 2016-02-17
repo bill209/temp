@@ -1,0 +1,16 @@
+archive*.zip
+
+#################### OS X ####################
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# OS X Files that might appear on external disk
+.Spotlight-V100
+.Trashes

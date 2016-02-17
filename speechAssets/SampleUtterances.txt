@@ -1,0 +1,37 @@
+TellMeADadJokeIntent tell me a joke
+TellMeADadJokeIntent tell a joke
+TellMeADadJokeIntent say a joke
+TellMeADadJokeIntent make a joke
+TellMeADadJokeIntent give me a joke
+TellMeADadJokeIntent tell me a dad joke
+TellMeADadJokeIntent tell a dad joke
+TellMeADadJokeIntent say a dad joke
+TellMeADadJokeIntent make a dad joke
+TellMeADadJokeIntent give me a dad joke
+TellMeADadJokeIntent a joke
+TellMeADadJokeIntent a dad joke
+TellMeADadJokeIntent the joke
+TellMeADadJokeIntent the dad joke
+TellMeADadJokeIntent what's a joke
+TellMeADadJokeIntent what is a joke
+TellMeADadJokeIntent if it can tell me a joke
+TellMeADadJokeIntent will it tell me a joke
+TellMeADadJokeIntent can it tell me a joke
+TellMeADadJokeIntent to tell me a joke
+TellMeADadJokeIntent to tell a joke
+TellMeADadJokeIntent what's a dad joke
+TellMeADadJokeIntent what is a dad joke
+TellMeADadJokeIntent if it can tell me a dad joke
+TellMeADadJokeIntent will it tell me a dad joke
+TellMeADadJokeIntent can it tell me a dad joke
+TellMeADadJokeIntent to tell me a dad joke
+
+TellMeWhoCreatedThisIntent tell cody who wrote this app
+TellMeWhoCreatedThisIntent tell cody who the bomb is
+TellMeWhoCreatedThisIntent tell cody who the author is
+TellMeWhoCreatedThisIntent tell cody who the smartest dad is
+
+YesIntent yes
+YesIntent yeah
+YesIntent yep
+YesIntent yepper
